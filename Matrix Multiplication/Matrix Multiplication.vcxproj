@@ -11,8 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <CudaCompile Include="D:\dev\cuda-dev\olcf-cuda-training-series\exercises\hw1\matrix_mul.cu" />
-    <CudaCompile Include="D:\dev\cuda-dev\olcf-cuda-training-series\exercises\hw1\matrix_mul_solution.cu" />
+    <CudaCompile Include="my_matrix_mul.cu" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{96850447-7F48-4400-B395-FEBABFC00428}</ProjectGuid>
